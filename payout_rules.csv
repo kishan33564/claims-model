@@ -1,0 +1,7 @@
+company_id,company_name,coverage,deductible_factor,cap_factor,settlement_days,covers
+icici,ICICI Lombard,0.90,1.0,1.00,3,all
+hdfc,HDFC ERGO,0.88,1.0,1.05,4,all
+bajaj,Bajaj Allianz,0.85,1.0,1.10,5,all
+tata,Tata AIG,0.92,1.5,1.00,4,all
+newindia,New India Assurance,0.80,0.5,0.90,7,car_accident|bike_accident|bus_accident|truck_accident|auto_rickshaw|home|fire|theft|natural_disaster|health
+star,Star Health,0.95,0.8,1.20,3,health|travel
