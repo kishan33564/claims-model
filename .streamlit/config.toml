@@ -1,0 +1,20 @@
+[theme]
+primaryColor = "#7C3AED"
+backgroundColor = "#F1F8F4"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+borderColor = "#DCE4EF"
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#F8FAFC"
+codeBackgroundColor = "#1E293B"
+codeTextColor = "#E2E8F0"
+borderColor = "#334155"
+primaryColor = "#A78BFA"
+linkColor = "#C4B5FD"
+
+[server]
+headless = true
