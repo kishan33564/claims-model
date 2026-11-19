@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# claims-model
+>>>>>>> e561cf560ab199f2687636a8f5e5bb6577185a7e
 # ZeroTouch Claims — model training kit
 
 Trains your own models that decide, from a claim photo, whether a person can get insurance and how much
