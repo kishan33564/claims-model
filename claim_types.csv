@@ -1,0 +1,12 @@
+claim_type,label,category,base_cap,base_deductible
+car_accident,Car accident,vehicle,1500000,2000
+bike_accident,Bike / two-wheeler accident,vehicle,200000,500
+bus_accident,Bus accident,vehicle,4000000,10000
+truck_accident,Truck / commercial vehicle,vehicle,5000000,15000
+auto_rickshaw,Auto-rickshaw accident,vehicle,300000,1000
+health,Health / hospitalisation,health,1000000,5000
+travel,Travel (lost baggage / delay),travel,500000,2500
+home,Home damage,property,2500000,5000
+fire,Fire damage,property,3000000,10000
+theft,Theft / burglary,property,1000000,3000
+natural_disaster,Flood / natural disaster,property,2500000,5000
